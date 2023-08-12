@@ -46,8 +46,7 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya" height="30" width="40" /></a> -->
-<a href="www.linkedin.com/in/aditya-verma-06584224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaverma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-verma-52469b250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaverma" height="30" width="40" /></a>
 <a href="https://github.com/Adibittt2" target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="el_dorado_sib" height="30" width="40" /></a>
 </p>
 
