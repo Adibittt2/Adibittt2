@@ -34,20 +34,8 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
 
 </div>
 
-<div>
-<h4>- 🌱 I aslo worked on **HTML, CSS, Javascript, React, Node, Express, MongoDB, Java and Android Studio**</h4>
-</div>
-<div>
-- 💬 Ask me about **Web Development, Data Structure and Algorithms**
-- 📫 How to reach me **adityaverma00796@gmail.com**
-- 📄 *Resume* [Click Here](https://drive.google.com/file/d/1mGODCP_H3D8AmLs037d8lUxF97OS_l7e/view?usp=sharing)
-- ⚡ Fun fact **I think I am Cool Minded**
-</div>
-
-
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysanodiya" alt="jaysanodiya" /></a> </p> -->
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Node, Express, MongoDB, Java and Android Studio**
+- 🌱 I also worked on **HTML, CSS, Javascript, React, Node, Express, MongoDB, Java and Android Studio**
 
 - 💬 Ask me about **Web Development, Android Development, Data Structure and Algorithms**
 
