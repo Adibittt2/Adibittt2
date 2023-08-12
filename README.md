@@ -8,7 +8,31 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adibittt2&label=Profile%20views&color=0e75b6&style=flat" alt="adibittt2" /> </p>
 </div>
+<div>
+<h4> - 🌱 I’m currently working in Innovatily pvt.ltd. in a project <a href = 'https://marketplace.scalekrut.com/'> Scalekrut </a>. This is job Portal website.</h4>
+<li>Played a key role in the development of the Scalekrut Project, a dynamic job portal website </li>
+<li>Leveraged technologies such as Nest.js, GraphQL, RESTful APIs, Postgres, and GRPC to create a robust and efficient platform.
+</li>
+<li>
+Designed and implemented master API, enhancing data accessibility and user experience.
+</li>
+<li>
+Developed and managed essential Cron jobs, optimizing scheduled tasks and improving system performance.
+</li>
+<li>
+Orchestrated the configuration of email and WhatsApp notifications, collaborating with Brevo.com integration for seamless communication.
+</li>
+<li>
+Implemented worker threads, enhancing application responsiveness and multitasking capabilities.
+</li>
+<li>
+Successfully configured GRPC, facilitating efficient inter-service communication within the platform.
+</li>
+<li>
+Designed and integrated real-time chat functionality using pub-sub architecture, enhancing user engagement.
+</li>
 
+</div>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysanodiya" alt="jaysanodiya" /></a> </p> -->
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React, Node, Express, MongoDB, Java and Android Studio**
 
