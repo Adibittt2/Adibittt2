@@ -3,10 +3,10 @@
         <h1 align="left">Hi 👋, I'm Aditya Verma</h1>
         <h3 align="left">A passionate Node.js developer</h3>
         </div>
-        <div>
+      
             <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761139416ed019554dfd7f47eec1dee547bb5358b504&rid=giphy.gif&ct=g">
               
-        </div>
+        
             
         <div>
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=adibittt2&label=Profile%20views&color=0e75b6&style=flat" alt="adibittt2" /> </p>
