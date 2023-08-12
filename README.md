@@ -34,7 +34,6 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
 
 </div>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysanodiya" alt="jaysanodiya" /></a> </p> -->
 - 🌱 I also worked on **HTML, CSS, Javascript, React, Node, Express, MongoDB, Java and Android Studio**
 
 - 💬 Ask me about **Web Development, Android Development, Data Structure and Algorithms**
@@ -69,5 +68,4 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adibittt2&show_icons=true&locale=en" alt="adibittt2" /></div>
 
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanodiya&" alt="jaysanodiya" /></p> -->
+
