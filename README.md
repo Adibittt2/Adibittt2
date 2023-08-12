@@ -1,5 +1,4 @@
-
-      <div>
+ <div>
         <h1 align="left">Hi 👋, I'm Aditya Verma</h1>
         <h3 align="left">A passionate Node.js developer</h3>
         </div>
