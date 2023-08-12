@@ -40,7 +40,7 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
 
 - 📫 How to reach me **adityaverma00796@gmail.com**
 
-- 📄 *Resume* [Click Here](https://drive.google.com/file/d/1ZqAFaU82BK251908OC4i23-szGeQ5BXF/view?usp=sharing)
+- 📄 *Resume* [Click Here](https://drive.google.com/file/d/1pZOqj9c6QPHQkMLqtDB9q1P4m3Gzwbkm/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Cool Minded**
 
