@@ -1,15 +1,18 @@
- <div>
+   <div>
+      <div>
         <h1 align="left">Hi 👋, I'm Aditya Verma</h1>
         <h3 align="left">A passionate Node.js developer</h3>
         </div>
         <div>
             <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761139416ed019554dfd7f47eec1dee547bb5358b504&rid=giphy.gif&ct=g">
-       
-        
-        
-        
+              
+        </div>
+            
+        <div>
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=adibittt2&label=Profile%20views&color=0e75b6&style=flat" alt="adibittt2" /> </p>
+        </div>
         
+      <div>
        <h4> - 🌱 I’m currently working in Innovatily pvt.ltd. in a project <a href = 'https://marketplace.scalekrut.com/'> Scalekrut </a>. This is job Portal website.</h4>
 <li>Played a key role in the development of the Scalekrut Project, a dynamic job portal website </li>
 <li>Leveraged technologies such as Nest.js, GraphQL, RESTful APIs, Postgres, and GRPC to create a robust and efficient platform.
@@ -33,8 +36,12 @@ Successfully configured GRPC, facilitating efficient inter-service communication
 Designed and integrated real-time chat functionality using pub-sub architecture, enhancing user engagement.
 </li>
 
+      </div>
 
+<div>
         <h4>- 🌱 I aslo worked on  **HTML, CSS, Javascript, React, Node, Express, MongoDB, Java and Android Studio**</h4>
+</div>
+<div>
         
         - 💬 Ask me about **Web Development, Data Structure and Algorithms**
         
@@ -44,6 +51,9 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
         
         - ⚡ Fun fact **I think I am Cool Minded**
         
+</div>
+
+<div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
         <!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibtain4ahmad" height="30" width="40" /></a> -->
@@ -71,3 +81,7 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
         <!-- 
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanodiya&" alt="jaysanodiya" /></p> -->
         
+        </div>
+
+        
+        </div>
