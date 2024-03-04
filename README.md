@@ -1,6 +1,6 @@
 <div>
 <h1 align="left">Hi 👋, I'm Aditya Verma</h1>
-<h3 align="left">A passionate Node.js developer</h3>
+<h3 align="left">A passionate MERN Stack Developer</h3>
 </div>
 <div>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761139416ed019554dfd7f47eec1dee547bb5358b504&rid=giphy.gif&ct=g">
@@ -40,7 +40,7 @@ Designed and integrated real-time chat functionality using pub-sub architecture,
 
 - 📫 How to reach me **adityaverma00796@gmail.com**
 
-- 📄 *Resume* [Click Here](https://drive.google.com/file/d/1hFfUwdMDW71fA-imEtM99m8sKB4L4X-M/view?usp=sharing)
+- 📄 *Resume* [Click Here](https://drive.google.com/file/d/1XB2y52YLpPcM9G0hI8A_h2gNrE8MQ7Dc/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Cool Minded**
 
