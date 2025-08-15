@@ -1,6 +1,6 @@
 <div>
 <h1 align="left">Hi 👋, I'm Aditya Verma</h1>
-<h3 align="left">A passionate MERN Stack Developer</h3>
+<h3 align="left">A passionate on AI and Machine Learning </h3>
 </div>
 <div>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761139416ed019554dfd7f47eec1dee547bb5358b504&rid=giphy.gif&ct=g">
